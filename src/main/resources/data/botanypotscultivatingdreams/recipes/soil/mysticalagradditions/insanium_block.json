@@ -1,0 +1,14 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagradditions:insanium_block"
+  },
+  "display": {
+    "block": "mysticalagradditions:insanium_block",
+
+  },
+  "categories": [
+    "insanium"
+  ],
+  "growthModifier": 1
+}
