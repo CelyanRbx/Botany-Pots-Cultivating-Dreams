@@ -8,8 +8,8 @@ Minecraft: Iron, Coal, Gold, Redstone, Lapis Lazuli, Diamond, Emerald, Ancient D
 
 Create: Copper and Zinc can be planted!
 
-
 The seed is the corresponding mineral ingot, and the soil is the corresponding mineral block (except for some special ore planting). The growth time is uniformly one minute. The production quantity is 2 to 3, and the product is something that falls after mining the corresponding mineral ore.
+""
 
 Minerals that support Mod
 
