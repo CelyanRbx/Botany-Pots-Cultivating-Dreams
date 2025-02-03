@@ -29,7 +29,6 @@ Ars Nouveau
 All the Ores
 Powah! (Rearchitected)
 Allthemodium
-Ender IO
 Thermal Extra
 The Undergarden
 Ars Nouveau
