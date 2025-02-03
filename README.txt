@@ -50,4 +50,4 @@ IMPORTANT:
 
 It is recommended to use JEI to view all added minerals.
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Discord -> [Discord](https://discord.gg/cS27bTsn/).
+Discord -> [Discord](https://discord.gg/cS27bTsn).
