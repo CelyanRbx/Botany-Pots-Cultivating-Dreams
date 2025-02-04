@@ -160,6 +160,7 @@ dependencies {
     implementation fg.deobf("com.simibubi.create:create-${create_minecraft_version}:${create_version}:slim") { transitive = false }
     implementation fg.deobf("com.jozufozu.flywheel:flywheel-forge-${flywheel_minecraft_version}:${flywheel_version}")
     implementation fg.deobf("com.tterrag.registrate:Registrate:${registrate_version}")
+    implementation fg.deobf("curse.maven:create-deco-509285:5293982")
 
     implementation fg.deobf("curse.maven:botany-pots-353928:6002825")
     implementation fg.deobf("curse.maven:bookshelf-228525:5423987")
