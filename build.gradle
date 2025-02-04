@@ -214,6 +214,7 @@ dependencies {
     implementation fg.deobf("curse.maven:mystical-agriculture-246640:6128467")
     implementation fg.deobf("curse.maven:mystical-agradditions-256247:6128188")
     implementation fg.deobf("curse.maven:cucumber-272335:5857370")
+    implementation fg.deobf("curse.maven:extended-crafting-268387:6034128")
 
     implementation fg.deobf("curse.maven:mythicbotany-400058:5101899")
     implementation fg.deobf("curse.maven:libx-412525:5207625")
