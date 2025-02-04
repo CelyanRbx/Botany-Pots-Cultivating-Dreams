@@ -4,11 +4,11 @@
     "item": "extendedcrafting:ender_ingot"
   },
   "categories": [
-    "ender"
+    "ender_ingot"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "extendedcrafting:ender_block"
+    "block": "extendedcrafting:ender_ingot_block"
   },
   "drops": [
     {

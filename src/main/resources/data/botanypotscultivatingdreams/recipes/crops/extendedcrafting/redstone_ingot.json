@@ -4,11 +4,11 @@
     "item": "extendedcrafting:redstone_ingot"
   },
   "categories": [
-    "redstone"
+    "redstone_ingot"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "extendedcrafting:redstone_block"
+    "block": "extendedcrafting:redstone_ingot_block"
   },
   "drops": [
     {
