@@ -14,7 +14,7 @@
     {
       "chance": 1.00,
       "output": {
-        "item": "create:industrial_iron_ingot"
+        "item": "createdeco:industrial_iron_ingot"
       },
       "minRolls": 2,
       "maxRolls": 3
