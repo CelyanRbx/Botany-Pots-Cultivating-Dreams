@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "extendedcrafting:redstone_block"
+  },
+  "display": {
+    "block": "extendedcrafting:redstone_block"
+  },
+  "categories": [
+    "redstone"
+  ],
+  "growthModifier": 1
+}
