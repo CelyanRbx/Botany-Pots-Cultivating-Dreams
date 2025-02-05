@@ -244,6 +244,10 @@ dependencies {
 
     implementation fg.deobf("curse.maven:the-twilight-forest-227639:5468648")
 
+    implementation fg.deobf("curse.maven:draconic-evolution-223565:6065044")
+    implementation fg.deobf("curse.maven:brandons-core-231382:5422013")
+    implementation fg.deobf("curse.maven:codechicken-lib-1-8-242818:5753868")
+
     // Example mod dependency using a mod jar from ./libs with a flat dir repository
     // This maps to ./libs/coolmod-${mc_version}-${coolmod_version}.jar
     // The group id is ignored when searching -- in this case, it is "blank"
