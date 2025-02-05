@@ -206,6 +206,7 @@ dependencies {
     implementation fg.deobf("curse.maven:mekanism-268560:6123077")
     implementation fg.deobf("curse.maven:mekanism-generators-268566:6123081")
     implementation fg.deobf("curse.maven:mekanism-tools-268567:6123082")
+    implementation fg.deobf("curse.maven:mekanism-extras-1026040:6129444")
 
     implementation fg.deobf("curse.maven:more-tetra-materials-978653:5946008")
     implementation fg.deobf("curse.maven:tetra-289712:6096160")
