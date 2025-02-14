@@ -14,7 +14,7 @@
     {
       "chance": 1.00,
       "output": {
-        "item": "mythicbotany:elementium_ingot"
+        "item": "botania:elementium_ingot"
       },
       "minRolls": 2,
       "maxRolls": 3
